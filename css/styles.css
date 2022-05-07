@@ -1,0 +1,38 @@
+body {
+  background-color: #0B3948;
+  font-family: 'Outfit', sans-serif;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.qrbox {
+  background-color: white;
+  border-radius: 23px;
+  height: auto;
+  width: 50%;
+  max-width: 280px;
+  padding: 13px;
+  position: relative;
+  top: 125px;
+}
+
+h2 {
+  color: hsl(218, 44%, 22%);
+}
+
+p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  max-width: 90%;
+}
+
+img {
+  width: 100%;
+  border-radius: 15px;
+}
